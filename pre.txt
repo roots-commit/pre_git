@@ -5,3 +5,4 @@ gid add
 gid commit
 gid push
 git rm
+git status
