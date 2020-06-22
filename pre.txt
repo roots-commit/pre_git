@@ -1,2 +1,6 @@
 gitの練習をする
 基本的なワークフローを学べる
+
+gid add
+gid commit
+gid push
