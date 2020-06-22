@@ -4,3 +4,4 @@ gitの練習をする
 gid add
 gid commit
 gid push
+git rm
